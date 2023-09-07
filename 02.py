@@ -1,1 +1,1 @@
-print("Kuy")
+print("Kuyyae")
